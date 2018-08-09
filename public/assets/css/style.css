@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+
+}
+
+h2, ul, form {
+  background-color: black;
+  color: white; 
+}
+
+#bodyBG{
+  background-color: black;
+}
+
+#whiteLtr{
+  color: white;
+}
+
+#top {
+  background-image: url('https://vignette.wikia.nocookie.net/logopedia/images/3/33/McDonald%27s_sign_logo.svg/revision/latest/scale-to-width-down/490?cb=20180131062655');
+  opacity: 5%;
+}
+
+img{
+  size: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: black;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
