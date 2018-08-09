@@ -1,6 +1,5 @@
 h1 {
   text-align: center;
-
 }
 
 h2, ul, form {
@@ -18,7 +17,6 @@ h2, ul, form {
 
 #top {
   background-image: url('https://vignette.wikia.nocookie.net/logopedia/images/3/33/McDonald%27s_sign_logo.svg/revision/latest/scale-to-width-down/490?cb=20180131062655');
-  opacity: 5%;
 }
 
 img{
@@ -48,3 +46,17 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+button {
+  background-color: rgb(236, 216, 29);
+}
+
+.outside {
+  background-color: rgb(214, 204, 204);
+}
+
+.red{
+  color: rgb(235, 65, 65);
+}
+
+  
